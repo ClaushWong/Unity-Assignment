@@ -1,0 +1,11 @@
+week 1 - learning for control xyz and learn how to control mouse, learn to make material. and we can make the picture with material but 
+is want saw like more reality must make a same image but with a normal map
+
+week 2 - learn how to use terrain and built the mountain, tree. and learn how to use the light(4 types) , learn to use assest store
+
+week 4 - learn how to make the rigidbody to object, and using slipper and other(forget le) on the terrain or ground
+to make the object move smooth. if normal for the force object will rotate it becaz force, but if using slipper. 
+it will not rotate it and only move straightly
+
+week 6 - make the coding for the obstacle. and make if the player is touch the obstacle will close the function for playermovement
+make a group of id at the (tag) - obstacle  .. if object is touch the tag.obstacle. will close the function 
